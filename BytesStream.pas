@@ -1,5 +1,7 @@
 unit BytesStream;
 // TBytesStream class was added in Delphi 2009, so I define it manually for Delphi 2007
+// Prepared by Valient Newman.   <valient.newman@proton.me>
+// My Github Repository <https://github.com/valient-newman>
 // CompilerVersion is 18.5 for Delphi 2007 Win32
 
 interface
